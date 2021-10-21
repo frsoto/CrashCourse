@@ -1,0 +1,3 @@
+In Python you can store as much information as you want.
+En Python tu puedes conectar pizas de informacion.
+En Python tu puedes modelar el mundo real.
